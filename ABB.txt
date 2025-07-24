@@ -1,2 +1,0 @@
-Add new line to git script
-New line added
